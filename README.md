@@ -447,7 +447,7 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/XksA-me" title="极简XksA"><img src="https://avatars.githubusercontent.com/u/43670614?v=4" width="42;" alt="极简XksA"/></a>
 <a href="https://github.com/ReZeroS" title="ReZero"><img src="https://avatars.githubusercontent.com/u/13174606?v=4" width="42;" alt="ReZero"/></a>
 <a href="https://github.com/yybht155" title="Loofra"><img src="https://avatars.githubusercontent.com/u/32786211?v=4" width="42;" alt="Loofra"/></a>
-<a href="https://github.com/fseasy" title="徐伟"><img src="https://avatars.githubusercontent.com/u/5585818?v=4" width="42;" alt="徐伟"/></a>
+<a href="https://github.com/fseasy" title="Wei Xu"><img src="https://avatars.githubusercontent.com/u/5585818?v=4" width="42;" alt="Wei Xu"/></a>
 <a href="https://github.com/kindevil" title="尘埃"><img src="https://avatars.githubusercontent.com/u/846488?v=4" width="42;" alt="尘埃"/></a>
 <a href="https://github.com/xiaobeicn" title="宋小北"><img src="https://avatars.githubusercontent.com/u/6057437?v=4" width="42;" alt="宋小北"/></a>
 <a href="https://github.com/gclm" title="孤城落寞"><img src="https://avatars.githubusercontent.com/u/27618687?v=4" width="42;" alt="孤城落寞"/></a>
